@@ -128,7 +128,7 @@ namespace CRUD_with_SP.Services
             }
 
 
-
+        // getting the data of employee by giving id
         public EmpModel GetEmpById(int id)
             {
                 EmpModel emp = new EmpModel();

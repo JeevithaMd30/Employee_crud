@@ -47,7 +47,7 @@ namespace CRUD_with_SP.Controllers
         // [HttpGet]
         public IActionResult AddEmployee()
         {
-            //this method shows the adding employee
+            //this method used to  add employee
             return View();
         }
 
