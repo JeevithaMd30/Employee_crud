@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cPlBO3qQ3eCgGsDyTXQTHt/OCZPdOGBEdw1jOntxksclnLA2dNqg7IK0iJ53JoVBWurXGD6SEd9UfaVbulmanw==",
+  "dgSpecHash": "6TnAqJp1ZVRCOiBGYqqtUyWfn6PFn1XCpCLNc8XSnZiTnozsP2WAFNIS2qJG4z5WdZDq/xmG+v77jH5ymKCxYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jeevitha.md\\source\\repos\\CRUD_with_SP\\CRUD_with_SP\\CRUD_with_SP.csproj",
+  "projectFilePath": "C:\\Users\\Jeevitha.md\\Desktop\\Employee_crud\\CRUD_with_SP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jeevitha.md\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Jeevitha.md\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -204,5 +204,16 @@
     "C:\\Users\\Jeevitha.md\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Jeevitha.md\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }

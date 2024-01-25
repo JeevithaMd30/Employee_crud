@@ -1,5 +1,11 @@
+<<<<<<< HEAD
  
 .vs/
 bin/
 obj/
 wwwroot/
+=======
+.vs/
+
+/.vs/slnx.sqlite
+>>>>>>> 5aaf9ef0444a6c6a8f34922841e415869de94245
